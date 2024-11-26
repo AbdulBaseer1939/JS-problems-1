@@ -20,3 +20,9 @@ console.log("Hello... I can run JS hrough my web browser's console");
 function showAlert() {
     alert("This is an alert message!");
 }
+
+// Problem#7: Practice placement of <script></script> element in following sections of your project in exercise 6: 
+// a. Head 
+// b. Body (before your page’s HTML)  
+// c. Body (inside your page’s HTML) 
+// d. Body (after your page’s HTML) 
